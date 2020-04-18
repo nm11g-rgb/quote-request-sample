@@ -4,7 +4,7 @@ Generate a quote in Google Docs using data from Google Sheets
 
 ## Getting Started
 
-Open the Google Sheet that you are working on. In the main menu at the top, there will be a ‘Quote Request’ menu next to ‘Help’. Click Quote Request > Generate Quote…
+Open the Google Sheet that you are working on. In the main menu at the top, there will be a â€˜Quote Requestâ€™ menu next to â€˜Helpâ€™. Click Quote Request > Generate Quoteâ€¦
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ All projects can be viewed from My Projects: https://script.google.com/home
 
 ## Authors
 
-* **Nevin Manimala** - *Initial work* - [nm11g-rgb](https://github.com/nm11g-rgb)
+* **[Nevin Manimala](https://github.com/nm11g-rgb)** - *Initial work* - [nm11g-rgb](https://github.com/nm11g-rgb)
 
 ## License
 
